@@ -20,7 +20,7 @@ This guide will detail the test cases, testing patterns, organization, and repor
      6. Verify that to-to-list items count text appears with other All, Active, Completed and Clear completed links & 'X' icon to remove item.
    - **Expected Result:**
      - The task "Task 1" is added to the list and displayed correctly.
-     - tUser is on All tab and to-to-list items count text is added with other links such as All, Active, Completed and Clear completed links & 'X' icon to remove item.
+     - User is on the "All" tab and to-to-list items count text is added with other links such as All, Active, Completed and Clear completed links & 'X' icon to remove item.
 
 2. **Mark a Task as Completed**
    - **Steps:**
